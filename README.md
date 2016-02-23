@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+I am a lawyer and this is my first time here. 
