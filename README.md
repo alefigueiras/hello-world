@@ -1,3 +1,3 @@
 # hello-world
 
-I am a lawyer and this is my first time here. 
+This is my first time here. 
